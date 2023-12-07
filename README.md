@@ -1,3 +1,3 @@
 # PlayAudioOnButton
 
-[https://amitepic.github.io/PlayAudioOnButton/](click me)
+[click to visit](https://amitepic.github.io/PlayAudioOnButton/)
