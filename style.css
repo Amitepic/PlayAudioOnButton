@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(52, 53, 45);
+  }
+  
+  p {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .action-btns {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+  
+  .btn {
+    width: 12rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #ffffff;
+    border: none;
+    border-radius: 0.2rem;
+    padding: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .play {
+    background-color: #89B016;
+    border-radius: 8px;
+  }
+  
+  
+  
+  .pause {
+    background-color: #E7CF20;
+    border-radius: 8px;
+  }
+  
+  
